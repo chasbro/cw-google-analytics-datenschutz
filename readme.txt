@@ -6,35 +6,35 @@ Requires at least: 3.0.0
 Tested up to: 3.2
 Stable tag: trunk
 
-Dieses Plugin stellt eine einfache Möglichkeit zur Verfügung, Google Analytics auf der Seite datenschutzkonform einzubinden. 
+Dieses Plugin stellt eine einfache MÃ¶glichkeit zur VerfÃ¼gung, Google Analytics auf der Seite datenschutzkonform einzubinden. 
 
 == Description ==
 
-Nach der Installation finden Sie unter Einstellungen, Privatsphäre ein weiteres Textfeld, bei dem Sie die Account-ID von Google Analytics eintragen können.
+Nach der Installation finden Sie unter Einstellungen, PrivatsphÃ¤re ein weiteres Textfeld, bei dem Sie die Account-ID von Google Analytics eintragen kÃ¶nnen.
 
-Mit der Hinterlegung dieser ID ist Analytics sofort einsatzklar. Technisch wird bei der Darstellung des Trackingcodes der Parameter "_gat._anonymizeIp" hinterlegt, der die IP-Adressen erst kürzt und anschließend an Google übermittelt.
+Mit der Hinterlegung dieser ID ist Analytics sofort einsatzklar. Technisch wird bei der Darstellung des Trackingcodes der Parameter "_gat._anonymizeIp" hinterlegt, der die IP-Adressen erst kÃ¼rzt und anschlieÃŸend an Google Ã¼bermittelt.
 
-Zum datenschutzkonformen Einsatz ist weiterhin eine Vereinbarung mit Google notwendig. Den Vertrag dazu (kostenlos) und weitere, ausführliche Informationen stellt der Datenschutzbeauftragten von Hamburg zur Verfügung, zu finden unter
+Zum datenschutzkonformen Einsatz ist weiterhin eine Vereinbarung mit Google notwendig. Den Vertrag dazu (kostenlos) und weitere, ausfÃ¼hrliche Informationen stellt der Datenschutzbeauftragten von Hamburg zur VerfÃ¼gung, zu finden unter
 http://www.christian-wenzl.de/google-analytics-datenschutzkonform
 
 == Installation ==
 
-1. ZIP-Datei über den Installer installieren
-2. Unter Privatsphäre-Einstellungen die Google Analytics Account-ID eintragen
+1. ZIP-Datei Ã¼ber den Installer installieren
+2. Unter PrivatsphÃ¤re-Einstellungen die Google Analytics Account-ID eintragen
 3. Fertig, Tracking erfolgt sofort.
 
 == Frequently Asked Questions ==
 
 = Ist diese Einbindung 100% rechtssicher? =
 
-Sie entspricht den aktuellen Vorgaben, diese können sich aber jederzeit ändern. Für die Rechtssicherheit übernehme ich keine Haftung. Bitte kontaktieren Sie im Zweifelsfall Ihren Anwalt des Vertrauens.
+Sie entspricht den aktuellen Vorgaben, diese kÃ¶nnen sich aber jederzeit Ã¤ndern. FÃ¼r die Rechtssicherheit Ã¼bernehme ich keine Haftung. Bitte kontaktieren Sie im Zweifelsfall Ihren Anwalt des Vertrauens.
 
 == Screenshots ==
 
-1. Privatsphäre-Einstellung
+1. PrivatsphÃ¤re-Einstellung
 2. Darstellung im Quelltext
 
 == Changelog ==
 
 = 1.0 =
-* Erstveröffentlichung bei wordpress.org
+* ErstverÃ¶ffentlichung bei wordpress.org
