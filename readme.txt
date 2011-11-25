@@ -1,4 +1,4 @@
-=== CW Google Analytics Datenschutz ===
+﻿=== CW Google Analytics Datenschutz ===
 Contributors: christianwenzl
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=RVT9TV47T5CLS
 Tags: google analytics, datenschutz, datenschutzkonform, anonymizeIp, anonymize, anonym
@@ -35,6 +35,9 @@ Sie entspricht den aktuellen Vorgaben, diese können sich aber jederzeit ändern
 2. Darstellung im Quelltext
 
 == Changelog ==
+
+= 1.1 =
+* Anpassung, Einbindung im Head-Bereich
 
 = 1.0 =
 * Erstveröffentlichung bei wordpress.org
