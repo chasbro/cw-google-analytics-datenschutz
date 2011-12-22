@@ -3,7 +3,7 @@ Contributors: christianwenzl
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=RVT9TV47T5CLS
 Tags: google analytics, datenschutz, datenschutzkonform, anonymizeIp, anonymize, anonym
 Requires at least: 3.0.0
-Tested up to: 3.2
+Tested up to: 3.3
 Stable tag: trunk
 
 Dieses Plugin stellt eine einfache Möglichkeit zur Verfügung, Google Analytics auf der Seite datenschutzkonform einzubinden. 
