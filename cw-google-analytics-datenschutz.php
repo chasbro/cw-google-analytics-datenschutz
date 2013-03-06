@@ -3,7 +3,7 @@
 Plugin Name: CW Google Analytics Datenschutz
 Plugin URI: http://www.christian-wenzl.de/wordpress-google-analytics-datenschutz
 Description: Google Analytics nach aktuellem Stand datenschutzkonform einsetzen (Deutschland, Gewährleistung ausgeschlossen). Einstellungen unter Privatsphäre zu finden.
-Version: 1.2
+Version: 1.3
 Author: Christian Wenzl
 Author URI: http://www.christian-wenzl.de
 License: GPLv2
